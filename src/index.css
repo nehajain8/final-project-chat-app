@@ -1,0 +1,10 @@
+body {
+    color : lightgray;
+    font-weight: bold;
+}
+.Login {
+    text-align: center;
+}
+.error {
+    color: red;
+}
